@@ -352,7 +352,7 @@ Faculdade - Disciplinas: Saneamento e Meio Ambiente, Biologia Sanitária e Ambie
 
 ## Notas de Pesquisa
 
-Este projeto é desenvolvido como base para pesquisa em mestrado, com foco em:
+Este projeto é desenvolvido como base para pesquisa independente, com foco em:
 - Documentação de métodos numéricos
 - Validação contra benchmarks conhecidos
 - Reprodutibilidade e clareza do código
