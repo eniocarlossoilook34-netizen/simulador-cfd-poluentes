@@ -22,8 +22,10 @@ Thumbs.db
 # Results
 resultados*/
 *.npz
-*.png
 *.pdf
+
+# But DO track documentation images
+!docs/images/*.png
 
 # Temporary
 *.tmp
