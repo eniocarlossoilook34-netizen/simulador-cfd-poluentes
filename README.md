@@ -27,6 +27,29 @@ Resultado: base sólida para pesquisa em mestrado com validação contra casos c
 
 ---
 
+## 📊 Exemplo: Dispersão de Esgoto em Rio
+
+Simulação 2D de 150 segundos mostrando lançamento de esgoto em rio com escoamento uniforme.
+
+### Resultados
+
+| Campo | Imagem |
+|-------|--------|
+| **Campo de Velocidade** | ![Velocidade](docs/images/velocidade.png) |
+| **Concentração de Poluente** | ![Concentração](docs/images/concentracao.png) |
+| **Escoamento + Dispersão** | ![Sobreposição](docs/images/sobreposicao.png) |
+| **Perfil na Fonte** | ![Perfil](docs/images/perfil_lancamento.png) |
+| **Histórico: C_max** | ![Histórico Max](docs/images/historico_conc_max.png) |
+| **Histórico: C_média** | ![Histórico Média](docs/images/historico_conc_media.png) |
+
+### Métricas Finais
+- **Concentração máxima:** 435 kg/m³
+- **Concentração média:** 8.23 kg/m³
+- **Tempo de decaimento (95%):** 59.9 s
+- **Distância transportada:** 150 m
+
+---
+
 ## Estrutura do Projeto
 
 ```
