@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "mcp__visualize__show_widget",
-      "Bash(python casos/cavity_flow/teste_cavity.py)"
-    ]
-  }
-}
