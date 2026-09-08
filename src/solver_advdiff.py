@@ -34,8 +34,8 @@ class SolverAdveccaoDifusao:
         # Parâmetro de decaimento (biodegradação)
         self.k = 0.0  # taxa de decaimento [1/s]
 
-        print(f"Solver Advecção-Difusão inicializado")
-        print(f"D={D}, Δt={dt}")
+        print(f"Solver Adveccao-Difusao inicializado")
+        print(f"D={D}, dt={dt}")
 
     def set_taxa_decaimento(self, k):
         """Define taxa de decaimento de primeira ordem R(C) = -k*C."""
